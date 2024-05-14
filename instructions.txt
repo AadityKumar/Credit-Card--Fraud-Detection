@@ -1,0 +1,2 @@
+1) Run the command: streamlit run app.py
+2) Command to run for training model: python train.py
